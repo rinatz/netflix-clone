@@ -2,11 +2,11 @@
 
 学習用に実装した Netflix のクローンサイトです。
 
+![スクリーンショット](image.png)
+
 ## 参考にしたサイト
 
-**【React+TypeScript】Netflixのクローンを作るチュートリアル**
-
-https://zenn.dev/gunners6518/books/4c4672f32dd100
+- [【React+TypeScript】Netflixのクローンを作るチュートリアル - Zenn](https://zenn.dev/gunners6518/books/4c4672f32dd100)
 
 ## 起動方法
 
